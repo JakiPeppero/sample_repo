@@ -8,3 +8,6 @@ This is third trial of commit
 
 Hi Jaque,
 This is Victor. I am adding some text here. How are you feeling with upcoming finals?
+
+
+This is Jacque, I am modifying the last line by adding this random sentence. 
